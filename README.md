@@ -1,10 +1,10 @@
-# npm-package-template
+# shake-canvas
 
-[![NPM](https://nodei.co/npm/npm-package-template.png)](https://nodei.co/npm/npm-package-template/)
+[![NPM](https://nodei.co/npm/shake-canvas.png)](https://nodei.co/npm/shake-canvas/)
 
-[![NPM version](https://img.shields.io/npm/v/npm-package-template.svg)](https://www.npmjs.com/package/npm-package-template)
-[![Build Status](https://travis-ci.org/mastashake08/npm-package-template.svg?branch=master)](https://travis-ci.org/mastashake08/npm-package-template)
-[![Coverage Status](https://coveralls.io/repos/github/mastashake08/npm-package-template/badge.svg?branch=master)](https://coveralls.io/github/mastashake08/npm-package-template?branch=master)
+[![NPM version](https://img.shields.io/npm/v/shake-canvas.svg)](https://www.npmjs.com/package/shake-canvas)
+[![Build Status](https://travis-ci.org/mastashake08/shake-canvas.svg?branch=master)](https://travis-ci.org/mastashake08/shake-canvas)
+[![Coverage Status](https://coveralls.io/repos/github/mastashake08/shake-canvas/badge.svg?branch=master)](https://coveralls.io/github/mastashake08/shake-canvas?branch=master)
 
 npm package template.
 
@@ -13,8 +13,8 @@ npm package template.
 Clone repository with Git:
 
 ```sh
-git clone https://github.com/mastashake08/npm-package-template.git
-cd npm-package-template
+git clone https://github.com/mastashake08/shake-canvas.git
+cd shake-canvas
 ```
 
 ## Usage
@@ -23,7 +23,7 @@ Rename package (use [npm-package-name-checker](https://mastashake08.org/npm-pack
 
 ```sh
 # replace $NAME with your package name
-git grep -l npm-package-template | xargs sed -i '' -e "s/npm-package-template/$NAME/g"
+git grep -l shake-canvas | xargs sed -i '' -e "s/shake-canvas/$NAME/g"
 ```
 
 Manually update the files:
@@ -115,4 +115,4 @@ npm pack --dry-run
 
 ## License
 
-[MIT](https://github.com/mastashake08/npm-package-template/blob/master/LICENSE)
+[MIT](https://github.com/mastashake08/shake-canvas/blob/master/LICENSE)

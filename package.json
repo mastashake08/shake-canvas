@@ -1,6 +1,6 @@
 {
-  "name": "@mastashake08/npm-package-template",
-  "version": "1.0.0-alpha",
+  "name": "@mastashake08/shake-canvas",
+  "version": "0.0.1",
   "description": "npm package template.",
   "author": "Jyrone Parker <jyrone.parker@gmail.com>",
   "main": "index.js",
@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mastashake08/npm-package-template"
+    "url": "https://github.com/mastashake08/shake-canvas"
   },
   "bugs": {
-    "url": "https://github.com/mastashake08/npm-package-template/issues"
+    "url": "https://github.com/mastashake08/shake-canvas/issues"
   },
   "keywords": [
-    "npm-package-template"
+    "shake-canvas"
   ],
   "dependencies": {},
   "devDependencies": {

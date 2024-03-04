@@ -1,3 +1,5 @@
-module.exports = function () {
-  return 'npm-package-template';
-};
+import ShakeCanvas from "./src/classes/ShakeCanvas";
+
+export {
+  ShakeCanvas
+}
