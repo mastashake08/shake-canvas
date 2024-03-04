@@ -1,9 +1,9 @@
 # shake-canvas
 
-[![NPM](https://nodei.co/npm/@mastashake08/shake-canvas.png)](https://nodei.co/npm/mastashake08/shake-canvas/)
+[![NPM](https://nodei.co/npm/@mastashake08/shake-canvas.png)](https://nodei.co/npm/@mastashake08/shake-canvas/)
 
-[![NPM version](https://img.shields.io/npm/v/mastashake08/shake-canvas.svg)](https://www.npmjs.com/package/mastashake08/shake-canvas)
-[![Build Status](https://travis-ci.org/mastashake08/shake-canvas.svg?branch=master)](https://travis-ci.org/mastashake08/shake-canvas)
+[![NPM version](https://img.shields.io/npm/v/@mastashake08/shake-canvas.svg)](https://www.npmjs.com/package/mastashake08/shake-canvas)
+[![Build Status](https://travis-ci.org/@mastashake08/shake-canvas.svg?branch=master)](https://travis-ci.org/mastashake08/shake-canvas)
 [![Coverage Status](https://coveralls.io/repos/github/mastashake08/shake-canvas/badge.svg?branch=master)](https://coveralls.io/github/mastashake08/shake-canvas?branch=master)
 
 npm package template.
