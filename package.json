@@ -1,6 +1,6 @@
 {
   "name": "@mastashake08/shake-canvas",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "npm package template.",
   "author": "Jyrone Parker <jyrone.parker@gmail.com>",
   "main": "index.js",
